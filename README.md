@@ -36,8 +36,8 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Bolazcoding/article-preview)
-- Live Site URL: [Live site URL](https://article-preview-orcin.vercel.app/)
+- Solution URL: [Solution URL](https://github.com/Bolazcoding/newsletter-signup)
+- Live Site URL: [Live site URL](https://mobolaji-newsletter-signup.netlify.app/)
 
 ## My process
 
